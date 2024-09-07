@@ -7,7 +7,7 @@ Requirements:
  Push the project code to a GitHub repository. 
  Deploy the project on Vercel so that the resume is publicly accessible. 
 
-Scoring Breakdown: 
+Scoring Breakdown:
  GitHub Repository Setup and Organization (50 points):
 o Is the code properly committed and pushed to a GitHub repository? 
 o Is the repository well-organized with proper folder structures and file naming 
